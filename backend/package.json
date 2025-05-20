@@ -1,0 +1,12 @@
+{
+  "name": "conference-manager-backend",
+  "version": "0.1.0",
+  "description": "Backend for Conference Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
