@@ -1,0 +1,12 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "echo \"Run frontend\"",
+    "build": "echo \"Build frontend\"",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
